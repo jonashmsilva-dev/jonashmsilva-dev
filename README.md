@@ -20,7 +20,5 @@ Olá! Eu sou o Jonas
 Meu objetivo é desenvolver minhas habilidades na área de tecnologia, especialmente em **sistemas empresariais, ERP e desenvolvimento de soluções que otimizem processos de negócio**.
 
 ---
-
-📫 Contato
 💼 LinkedIn: https://www.linkedin.com/in/jonas-henry-de-melo-silva/
 ---
